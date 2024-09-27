@@ -7,6 +7,6 @@
 
 Adaptive from 320px
 
-Lots of sliders... mask for phone number and map
+Lots of sliders... API map and mask for phone number  
 
 bye
